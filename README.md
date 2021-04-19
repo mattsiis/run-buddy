@@ -12,3 +12,5 @@ https://mattsiis.github.io/run-buddy/
 
 ## Contribution
 Nahhhhhhhhhhhhhhhhhhhhhhhhhh
+
+# copy right

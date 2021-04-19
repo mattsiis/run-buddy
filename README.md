@@ -13,4 +13,4 @@ https://mattsiis.github.io/run-buddy/
 ## Contribution
 Nahhhhhhhhhhhhhhhhhhhhhhhhhh
 
-### COPYRIGHT 2021 Run Buddy Inc.
+# copy right 2020a

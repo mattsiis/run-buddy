@@ -50,6 +50,7 @@ header nav ul li a {
 section {
     padding: 20px 0;
 }
+
 /* Hero style start */
 .hero {
     padding: 60px;
@@ -154,8 +155,22 @@ section {
     --- Component End ---
 */
 
-/* Intro style start */
+/* service plan style start */
+.service-grid-container {
+    display: grid;
+}
 
+.service-grid-item {
+    width: 200px;
+    height: 50px;
+    background-color: orange;
+    border: solid;
+    color: black;
+}
+
+/* service plan style end */
+
+/* Intro style start */
 .intro p {
     line-height: 1.7;
     color: #39a6b2;
